@@ -1,0 +1,2 @@
+# picam
+motion setup
